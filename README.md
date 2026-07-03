@@ -50,4 +50,4 @@ The `--` separates arguments for `dotnet run` from arguments passed to the app.
 
 - `bin/`, `obj/`, and any `.env` are git-ignored.
 - The web-search example uses Wikipedia (keyless) — great for facts, but it has no
-  live data (today's news, schedules). Swap in Tavily/Brave (needs a key) for live results.
+  live data (today's news, schedules).
